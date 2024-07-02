@@ -3,8 +3,17 @@
 </h1>
 
 
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=ay0-0n&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ay0-0n" align="right" />
+</a>
 
-
+<br/>
+- 💻 I am a Full Stack Developer<br/>
+- 🏛️ Studying Computer Science at BRAC University<br/>
+- 🏚️ I'm currently living in Dhaka, Bangladesh<br/>
+- 🎯 I'm currently working on my pet projects<br/>
+- 📖 I'm currently learning Machine Learning<br/>
+- 📫 Reach me at: [sartiz.a.ayon@gmail.com](mailto:sartiz.a.ayon@gmail.com)
 
 
 
