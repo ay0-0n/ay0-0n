@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=Hey+There!;I'm+Sartiz+Alam+Ayon+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=500&vCenter=true&random=false&width=435&lines=Hey+There!;I'm+Sartiz+Alam+Ayon+%F0%9F%91%8B"/>
 </h1>
 
 <a href="#ay0-0n-title">
@@ -21,8 +21,23 @@
 </div>
 
 
-<a href="#ay0-0n-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay0-0n&theme=dark&hide_border=true" alt="ay0-0n" align="right" />
-</a>
+## 🔭 Tools of Trade</h2>
+**Languages I Speak**
 
+[![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp)](https://skillicons.dev)
 
+**Frontend Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
+
+**Backend Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,express)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+**Others**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,bash,ps,vscode,vercel)](https://skillicons.dev)
