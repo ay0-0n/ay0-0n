@@ -8,12 +8,7 @@
 
 
 
-- 💻 I am a **Full Stack Developer**  
-- 🏛️ Studying Computer Science at **BRAC University**  
-- 🏚️ I'm currently living in **Dhaka, Bangladesh**  
-- 🎯 I'm currently working on my pet projects  
-- 📖 I'm currently learning **Machine Learning**
-- 🥑 Ask me about **MERN Stack**, **Git**, **Python**
+- 🏛️ Studying Computer Science at **BRAC University**
 - 📫 Reach me at: [sartiz.a.ayon@gmail.com](mailto:sartiz.a.ayon@gmail.com)
 
 <div align="center">
