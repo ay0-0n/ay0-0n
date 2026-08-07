@@ -8,34 +8,13 @@
 
 
 
-- 🏛️ Studying Computer Science at **BRAC University**
+- 🏛️ CS at **BRAC University**
 - 📫 Reach me at: [sartiz.a.ayon@gmail.com](mailto:sartiz.a.ayon@gmail.com)
 
 <div align="center">
   <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-
-## 🔭 Tools of Trade</h2>
-**Languages I Speak**
-
-[![My Skills](https://skillicons.dev/icons?i=js,py,c,cpp)](https://skillicons.dev)
-
-**Frontend Technologies**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
-
-**Backend Technologies**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,express)](https://skillicons.dev)
-
-**Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-**Others**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,bash,ps,vscode,vercel)](https://skillicons.dev)
 
 ## 💌 Connect With Me</h2>
 
