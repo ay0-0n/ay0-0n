@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=500&vCenter=true&random=false&width=435&lines=Hey+There!;I'm+Sartiz+Alam+Ayon+%F0%9F%91%8B"/>
 </h1>
 
-<a href="#ay0-0n-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=sartizalamayon&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ayon" align="right" />
-</a>
 
 
 
